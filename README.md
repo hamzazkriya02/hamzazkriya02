@@ -23,7 +23,7 @@ I’m a **Frontend Web Developer** with hands-on experience building modern web 
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -56,14 +56,14 @@ I’m a **Frontend Web Developer** with hands-on experience building modern web 
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/hamzazkriya02/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-HTML/CSS/JS-blue?style=for-the-badge&logo=html5" alt="Portfolio" />
+  <a href="https://github.com/hamzazkriya02/My-Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-HTML/CSS/JS-blue?style=for-the-badge&logo=html5" alt="My Portfolio" />
   </a>
-  <a href="https://github.com/hamzazkriya02/react-app">
-    <img src="https://img.shields.io/badge/React%20App-React/JS-lightblue?style=for-the-badge&logo=react" alt="React App" />
+  <a href="https://github.com/hamzazkriya02/Tech-Website-">
+    <img src="https://img.shields.io/badge/React%20App-React/JS-lightblue?style=for-the-badge&logo=react" alt="Tech Website" />
   </a>
-  <a href="https://github.com/hamzazkriya02/landing-page">
-    <img src="https://img.shields.io/badge/Landing%20Page-HTML/CSS/JS-orange?style=for-the-badge&logo=javascript" alt="Landing Page" />
+  <a href="https://github.com/hamzazkriya02/IUB-Landing-Page">
+    <img src="https://img.shields.io/badge/Landing%20Page-HTML/CSS/JS-orange?style=for-the-badge&logo=javascript" alt="IUB Landing Page" />
   </a>
 </p>
 
