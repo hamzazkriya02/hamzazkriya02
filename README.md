@@ -13,6 +13,11 @@
 ---
 
 ## 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="180" />
+</p>
+
 I’m a **Frontend Web Developer** with hands-on experience building modern web interfaces and applications.
 
 - ✅ Strong foundation in **HTML, CSS, JavaScript**
@@ -24,11 +29,7 @@ I’m a **Frontend Web Developer** with hands-on experience building modern web 
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-GitHub-lightgrey?style=flat&logo=github"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=dark" />
 </p>
 
 ---
@@ -76,7 +77,7 @@ I’m a **Frontend Web Developer** with hands-on experience building modern web 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzazkriya02&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hamzazkriya02&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
