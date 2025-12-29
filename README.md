@@ -80,10 +80,6 @@ I’m a **Frontend Web Developer** with hands-on experience building modern web 
   <img src="https://nirzak-streak-stats.vercel.app/?user=hamzazkriya02&theme=github-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzazkriya02&layout=compact&hide_border=true" />
-</p>
-
 ---
 
 # Test GitHub Activity Graph
